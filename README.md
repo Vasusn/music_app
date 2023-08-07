@@ -55,4 +55,4 @@ Contributions to the project are welcome! If you encounter any bugs or have sugg
 
 ## Disclaimer
 
-This app is developed as a personal project for learning and demonstration purposes. It may not have the robustness or security required for production-level applications. Use it at your own risk.![clg](https://github.com/Vasusn/music_app/assets/130688960/b6326f42-28c9-4f74-95f6-7f1944d48e25)
+This app is developed as a personal project for learning and demonstration purposes. It may not have the robustness or security required for production-level applications. Use it at your own risk.!
